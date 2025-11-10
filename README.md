@@ -19,13 +19,13 @@
 ## 🧭 3-Year Roadmap Overview
 **2025–2028: Building a full-stack and backend portfolio**
 
-- ✅ Build 10 large projects (APIs, full-stack apps)
-- ✅ Publish 3–5 Python packages on PyPI
-- ✅ Develop 3–5 small-scale AI/ML projects
-- ✅ Contribute to open-source communities
-- ✅ Master Linux & PowerShell environments
-- ✅ Complete professional certificates
-- ✅ Maintain high-quality documentation & CI pipelines
+- ❌ Build 10 large projects (APIs, full-stack apps)
+- ❌ Publish 3–5 Python packages on PyPI
+- ❌ Develop 3–5 small-scale AI/ML projects
+- ❌ Contribute to open-source communities
+- ❌ Master Linux & PowerShell environments
+- ❌ Complete professional certificates
+- ❌ Maintain high-quality documentation & CI pipelines
 
 ---
 
