@@ -8,8 +8,8 @@
 ## 🧾 Certificates & Achievements
 | Certificate | Platform | Year | Link |
 |--------------|-----------|------|------|
-| 🐍 Python Developer Certificate | Coursera | 2025 | [View Certificate](#) |
-| 🖥️ Linux Administration | edX | 2025 | [View Certificate](#) |
+| 🐍 Python Developer Certificate | Coursera | 2026 | [View Certificate](#) |
+| 🖥️ Linux Administration | edX | 2026 | [View Certificate](#) |
 | ☁️ Cloud Fundamentals | Google | 2026 | [View Certificate](#) |
 | ⚙️ Machine Learning Basics | Kaggle | 2026 | [View Certificate](#) |
 | 💡 API Security & OAuth | Udemy | 2027 | [View Certificate](#) |
